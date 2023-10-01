@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Temperature_Converter_App_JAVA</string>
+    <string name="app_name">Temperature_Converter_App</string>
+    <string name="input">Enter Temperature</string>
+    <string name="ce_to_ft">Celsius To Fahrenheit</string>
+    <string name="fa_to_ce">Fahrenheit To Celsius</string>
+    <string name="degree">0 Degrees</string>
 </resources>
